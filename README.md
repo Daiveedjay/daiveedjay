@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jajadavid8" target="blank"><img src="https://img.shields.io/twitter/follow/jajadavid8?logo=twitter&style=for-the-badge" alt="jajadavid8" /></a> </p>
 
-- 👨‍💻 All of my projects are available on my portfolio website [https://github.com/Daiveedjay/Portfolio](https://github.com/Daiveedjay/Portfolio)
+- 👨‍💻 All of my projects are available on my portfolio website [https://david-portfolio-main.netlify.app)
 
 - 📫 How to reach me **Jajadavidjid@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Daiveedjay/Portfolio](https://github.com/Daiveedjay/Portfolio)
+- 📄 Know about my experiences [https://david-portfolio-main.netlify.app)
 
 - ⚡ Fun fact **I game and watch football often**
 
