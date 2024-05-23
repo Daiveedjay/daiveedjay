@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jajadavid8" target="blank"><img src="https://img.shields.io/twitter/follow/jajadavid8?logo=twitter&style=for-the-badge" alt="jajadavid8" /></a> </p>
 
-- 👨‍💻 All of my projects are available on my portfolio website [https://github.com/Daiveedjay/Portfolio](https://github.com/Daiveedjay/Portfolio)
-
-- 📝 I regularly write articles on [https://daiveedjay.hashnode.dev/ ,https://blog.openreplay.com/authors/david-jaja/](https://daiveedjay.hashnode.dev/ ,https://blog.openreplay.com/authors/david-jaja/)
-
 - 📫 How to reach me **Jajadavidjid@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Daiveedjay/Portfolio](https://github.com/Daiveedjay/Portfolio)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1bFSK9sejNv0Ik_Xn7v3iH2bMIJPunKiQcR76Z7g7-lU/edit?usp=sharing)
 
 - ⚡ Fun fact **I game and watch football often**
 
