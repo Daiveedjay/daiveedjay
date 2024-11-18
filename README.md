@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScipt**
 
-- 📝 I regularly write articles on [https://www.freecodecamp.org/news/author/daiveed/](https://www.freecodecamp.org/news/author/daiveed/)
+- 📝 I regularly write articles on [https://www.freecodecamp.org/news/author/daiveed/](https://www.freecodecamp.org/news/author/Daiveed/)
 
 - 💬 Ask me about **React, Next, Web Development**
 
