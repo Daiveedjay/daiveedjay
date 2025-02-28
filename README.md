@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jajadavid8" target="blank"><img src="https://img.shields.io/twitter/follow/jajadavid8?logo=twitter&style=for-the-badge" alt="jajadavid8" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScipt**
+- 🌱 I’m currently learning **Go**
 
 - 📝 I regularly write articles on [https://www.freecodecamp.org/news/author/Daiveed/](https://www.freecodecamp.org/news/author/Daiveed/)
 
